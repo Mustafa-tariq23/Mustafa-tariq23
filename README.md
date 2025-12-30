@@ -1,106 +1,93 @@
-<h1 align="center">Hi, I'm Mustafa 👋</h1>
-<h3 align="center">CS Student • MERN Stack Developer • Backend & AI Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Mustafa</h1>
+<h3 align="center">Computer Science Student | MERN Stack Developer | Backend & AI Focused</h3>
 
 <p align="center">
-📍 Lahore, Pakistan • 🎓 Final Year CS Student  
-🛠 I build real-world systems, not tutorial toys  
-🌱 Currently focusing on scalable backends & AI-powered apps
+I build real-world systems, scalable backends, and AI-powered tools.  
+Final Year CS Student passionate about clean architecture & problem-solving.
 </p>
 
 ---
 
-## 🌐 Connect with Me
-<p align="center">
-<a href="https://linkedin.com/in/mustafa-tariq-b11834249">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="https://instagram.com/_.palene._">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
-</a>
-<a href="https://facebook.com/mustafa.tariq.583">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/>
-</a>
-</p>
+## 🌐 Socials
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/mustafa.tariq.583)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_.palene._)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mustafa-tariq-b11834249)
 
 ---
 
 ## 🧠 About Me
-- 💻 MERN Stack Intern with strong backend focus  
-- 🔐 Final Year Project: **Vulnerability Benchmark System**
-- 🤖 Experience with AI, data scraping, automation & APIs  
-- 📊 Comfortable with PostgreSQL, FastAPI, MongoDB  
-- 🧩 I enjoy solving messy real-world problems with clean systems
-
----
-
-## 🛠 Core Tech Stack (Focused)
-**Frontend**
-- React, Next.js, Tailwind CSS
-- React Native, Expo
-
-**Backend**
-- Node.js, Express
-- FastAPI, Flask
-- JWT Authentication
-
-**Databases**
-- MongoDB, PostgreSQL, MySQL
-- Prisma, Supabase
-
-**DevOps & Tools**
-- Docker, GitHub Actions
-- Firebase, Vercel, Netlify
-- Nginx, Cloudflare
-
-**AI / Data**
-- Python, NumPy, Pandas
-- scikit-learn
-- Whisper (Audio Transcription)
+- 🎓 Final Year CS Student from Lahore, Pakistan  
+- 💻 MERN Stack Developer with strong backend exposure  
+- 🔐 FYP: [**Vulnerability Benchmark System**](https://vulnerability-benchmark-system.vercel.app/)
+- 🤖 Interested in AI, automation & system design  
+- 🧩 I prefer building systems that actually solve problems
 
 ---
 
 ## 🚀 Featured Projects
-🔹 **Vulnerability Benchmark System (FYP)**  
-Benchmarking vulnerabilities using data scraped from CVE, GitHub & Linux systems.
+- 🔹 **[Vulnerability Benchmark System](https://vulnerability-benchmark-system.vercel.app/) (FYP)** – Benchmarking vulnerabilities using CVE, GitHub & Linux data  
+- 🔹 **Rexlay** – Event creation & management platform (Next.js)
+- 🔹 **HR & Fleet Management** – CRM System for a KSA based compnay (Next.js) 
+- 🔹 **[DanielsBelieve](https://www.danielsbelieve.de/)** – Ecommerce website for clothes  
+- 🔹 **[dietracart](https://dietracart.vercel.app/)** – Demo Ecommerce Diet Food App
 
-🔹 **Rexlay – Event Management Platform**  
-Next.js-based platform with event creation, invites & admin controls.
+---
 
-🔹 **Firebase Video CMS**  
-CMS for uploading, managing & streaming video content with metadata.
+## 💻 Tech Stack
 
-🔹 **Urdu Audio Transcription Tool**  
-AI-powered speech-to-text system using OpenAI Whisper.
+### 🖥 Languages
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=plastic&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white)
 
-👉 *Pin these repositories on your profile.*
+---
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-black?style=plastic&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
+![Expo](https://img.shields.io/badge/Expo-1C1E24?style=plastic&logo=expo&logoColor=white)
+
+---
+
+### ⚙ Backend
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=plastic&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens)
+
+---
+
+### 🗄 Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white)
+
+---
+
+### ☁ DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=plastic&logo=firebase)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mustafa-tariq23&show_icons=true&theme=tokyonight&hide_border=true" />
-<br/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=Mustafa-tariq23&theme=tokyonight&hide_border=true" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa-tariq23&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![](https://nirzak-streak-stats.vercel.app/?user=Mustafa-tariq23&theme=dark&hide_border=true)
 
 ---
 
-## 🏆 GitHub Highlights
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Mustafa-tariq23&theme=onedark&no-frame=true&row=1" />
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Mustafa-tariq23&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
-## ✍️ Dev Quote
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
-</p>
-
----
-
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=Mustafa-tariq23&icon=5&color=6" />
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
