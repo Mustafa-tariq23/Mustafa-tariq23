@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
-<h3 align="center">Computer Science Student | MERN Stack Developer | Backend & AI Focused</h3>
+<h3 align="center">Computer Science Student | MERN Stack Developer | FullStack AI Focused</h3>
 
 <p align="center">
 I build real-world systems, scalable backends, and AI-powered tools.  
@@ -17,7 +17,7 @@ Final Year CS Student passionate about clean architecture & problem-solving.
 
 ## 🧠 About Me
 - 🎓 Final Year CS Student from Lahore, Pakistan  
-- 💻 MERN Stack Developer with strong backend exposure  
+- 💻 MERN Stack Developer with strong FrontEnd exposure  
 - 🔐 FYP: [**Vulnerability Benchmark System**](https://vulnerability-benchmark-system.vercel.app/)
 - 🤖 Interested in AI, automation & system design  
 - 🧩 I prefer building systems that actually solve problems
