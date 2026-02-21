@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
-<h3 align="center">Computer Science Student | MERN Stack Developer | FullStack AI Focused</h3>
+<h3 align="center">Computer Science Graduate | MERN Stack Developer | FullStack AI Focused</h3>
 
 <p align="center">
 I build real-world systems, scalable backends, and AI-powered tools.  
