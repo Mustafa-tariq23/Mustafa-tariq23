@@ -16,7 +16,6 @@ Final Year CS Student passionate about clean architecture & problem-solving.
 ---
 
 ## 🧠 About Me
-- 🎓 Final Year CS Student from Lahore, Pakistan  
 - 💻 MERN Stack Developer with strong FrontEnd exposure  
 - 🔐 FYP: [**Vulnerability Benchmark System**](https://vulnerability-benchmark-system.vercel.app/)
 - 🤖 Interested in AI, automation & system design  
